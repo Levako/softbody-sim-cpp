@@ -1,3 +1,0 @@
-/home/levako/Projects/softbody-sim-cpp/build/CMakeFiles/rebuild_cache.dir
-/home/levako/Projects/softbody-sim-cpp/build/CMakeFiles/edit_cache.dir
-/home/levako/Projects/softbody-sim-cpp/build/CMakeFiles/SoftbodySim.dir
